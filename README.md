@@ -1,2 +1,2 @@
 # example-xgboost
-Example of trainable XGBoost on GPU.
+Example of trainable XGBoost on CUDA.
